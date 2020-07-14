@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+*.dcm
+*.bak
+.workspace-submit.json
+*.hdf5
